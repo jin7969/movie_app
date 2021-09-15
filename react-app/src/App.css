@@ -1,0 +1,12 @@
+.black-nav {
+  height: 60px;
+  color: #ffffff;
+  background-color: #222222;
+}
+
+.list {
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
